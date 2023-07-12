@@ -1,0 +1,15 @@
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForArray/bin/Debug/net7.0/ExP2ForArray
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForArray/bin/Debug/net7.0/ExP2ForArray.deps.json
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForArray/bin/Debug/net7.0/ExP2ForArray.runtimeconfig.json
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForArray/bin/Debug/net7.0/ExP2ForArray.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForArray/bin/Debug/net7.0/ExP2ForArray.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForArray/obj/Debug/net7.0/ExP2ForArray.csproj.AssemblyReference.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForArray/obj/Debug/net7.0/ExP2ForArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForArray/obj/Debug/net7.0/ExP2ForArray.AssemblyInfoInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForArray/obj/Debug/net7.0/ExP2ForArray.AssemblyInfo.cs
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForArray/obj/Debug/net7.0/ExP2ForArray.csproj.CoreCompileInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForArray/obj/Debug/net7.0/ExP2ForArray.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForArray/obj/Debug/net7.0/refint/ExP2ForArray.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForArray/obj/Debug/net7.0/ExP2ForArray.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForArray/obj/Debug/net7.0/ExP2ForArray.genruntimeconfig.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForArray/obj/Debug/net7.0/ref/ExP2ForArray.dll
