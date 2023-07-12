@@ -1,0 +1,15 @@
+/Users/hoanganhvu/Desktop/CsharpProjects/Comments/bin/Debug/net7.0/Comments
+/Users/hoanganhvu/Desktop/CsharpProjects/Comments/bin/Debug/net7.0/Comments.deps.json
+/Users/hoanganhvu/Desktop/CsharpProjects/Comments/bin/Debug/net7.0/Comments.runtimeconfig.json
+/Users/hoanganhvu/Desktop/CsharpProjects/Comments/bin/Debug/net7.0/Comments.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/Comments/bin/Debug/net7.0/Comments.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/Comments/obj/Debug/net7.0/Comments.csproj.AssemblyReference.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/Comments/obj/Debug/net7.0/Comments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoanganhvu/Desktop/CsharpProjects/Comments/obj/Debug/net7.0/Comments.AssemblyInfoInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/Comments/obj/Debug/net7.0/Comments.AssemblyInfo.cs
+/Users/hoanganhvu/Desktop/CsharpProjects/Comments/obj/Debug/net7.0/Comments.csproj.CoreCompileInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/Comments/obj/Debug/net7.0/Comments.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/Comments/obj/Debug/net7.0/refint/Comments.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/Comments/obj/Debug/net7.0/Comments.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/Comments/obj/Debug/net7.0/Comments.genruntimeconfig.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/Comments/obj/Debug/net7.0/ref/Comments.dll

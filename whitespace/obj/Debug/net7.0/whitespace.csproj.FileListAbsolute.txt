@@ -1,0 +1,15 @@
+/Users/hoanganhvu/Desktop/CsharpProjects/whitespace/bin/Debug/net7.0/whitespace
+/Users/hoanganhvu/Desktop/CsharpProjects/whitespace/bin/Debug/net7.0/whitespace.deps.json
+/Users/hoanganhvu/Desktop/CsharpProjects/whitespace/bin/Debug/net7.0/whitespace.runtimeconfig.json
+/Users/hoanganhvu/Desktop/CsharpProjects/whitespace/bin/Debug/net7.0/whitespace.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/whitespace/bin/Debug/net7.0/whitespace.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/whitespace/obj/Debug/net7.0/whitespace.csproj.AssemblyReference.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/whitespace/obj/Debug/net7.0/whitespace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoanganhvu/Desktop/CsharpProjects/whitespace/obj/Debug/net7.0/whitespace.AssemblyInfoInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/whitespace/obj/Debug/net7.0/whitespace.AssemblyInfo.cs
+/Users/hoanganhvu/Desktop/CsharpProjects/whitespace/obj/Debug/net7.0/whitespace.csproj.CoreCompileInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/whitespace/obj/Debug/net7.0/whitespace.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/whitespace/obj/Debug/net7.0/refint/whitespace.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/whitespace/obj/Debug/net7.0/whitespace.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/whitespace/obj/Debug/net7.0/whitespace.genruntimeconfig.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/whitespace/obj/Debug/net7.0/ref/whitespace.dll

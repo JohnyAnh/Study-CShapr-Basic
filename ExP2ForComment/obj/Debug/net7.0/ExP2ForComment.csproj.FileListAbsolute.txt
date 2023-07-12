@@ -1,0 +1,15 @@
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForComment/bin/Debug/net7.0/ExP2ForComment
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForComment/bin/Debug/net7.0/ExP2ForComment.deps.json
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForComment/bin/Debug/net7.0/ExP2ForComment.runtimeconfig.json
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForComment/bin/Debug/net7.0/ExP2ForComment.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForComment/bin/Debug/net7.0/ExP2ForComment.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForComment/obj/Debug/net7.0/ExP2ForComment.csproj.AssemblyReference.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForComment/obj/Debug/net7.0/ExP2ForComment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForComment/obj/Debug/net7.0/ExP2ForComment.AssemblyInfoInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForComment/obj/Debug/net7.0/ExP2ForComment.AssemblyInfo.cs
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForComment/obj/Debug/net7.0/ExP2ForComment.csproj.CoreCompileInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForComment/obj/Debug/net7.0/ExP2ForComment.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForComment/obj/Debug/net7.0/refint/ExP2ForComment.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForComment/obj/Debug/net7.0/ExP2ForComment.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForComment/obj/Debug/net7.0/ExP2ForComment.genruntimeconfig.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/ExP2ForComment/obj/Debug/net7.0/ref/ExP2ForComment.dll
