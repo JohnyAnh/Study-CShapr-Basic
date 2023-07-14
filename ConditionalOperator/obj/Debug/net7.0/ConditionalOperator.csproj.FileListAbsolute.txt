@@ -1,0 +1,15 @@
+/Users/hoanganhvu/Desktop/CsharpProjects/ConditionalOperator/bin/Debug/net7.0/ConditionalOperator
+/Users/hoanganhvu/Desktop/CsharpProjects/ConditionalOperator/bin/Debug/net7.0/ConditionalOperator.deps.json
+/Users/hoanganhvu/Desktop/CsharpProjects/ConditionalOperator/bin/Debug/net7.0/ConditionalOperator.runtimeconfig.json
+/Users/hoanganhvu/Desktop/CsharpProjects/ConditionalOperator/bin/Debug/net7.0/ConditionalOperator.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/ConditionalOperator/bin/Debug/net7.0/ConditionalOperator.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/ConditionalOperator/obj/Debug/net7.0/ConditionalOperator.csproj.AssemblyReference.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/ConditionalOperator/obj/Debug/net7.0/ConditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoanganhvu/Desktop/CsharpProjects/ConditionalOperator/obj/Debug/net7.0/ConditionalOperator.AssemblyInfoInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/ConditionalOperator/obj/Debug/net7.0/ConditionalOperator.AssemblyInfo.cs
+/Users/hoanganhvu/Desktop/CsharpProjects/ConditionalOperator/obj/Debug/net7.0/ConditionalOperator.csproj.CoreCompileInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/ConditionalOperator/obj/Debug/net7.0/ConditionalOperator.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/ConditionalOperator/obj/Debug/net7.0/refint/ConditionalOperator.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/ConditionalOperator/obj/Debug/net7.0/ConditionalOperator.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/ConditionalOperator/obj/Debug/net7.0/ConditionalOperator.genruntimeconfig.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/ConditionalOperator/obj/Debug/net7.0/ref/ConditionalOperator.dll
