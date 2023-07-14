@@ -1,0 +1,15 @@
+/Users/hoanganhvu/Desktop/CsharpProjects/EvaluateAnExpression/bin/Debug/net7.0/EvaluateAnExpression
+/Users/hoanganhvu/Desktop/CsharpProjects/EvaluateAnExpression/bin/Debug/net7.0/EvaluateAnExpression.deps.json
+/Users/hoanganhvu/Desktop/CsharpProjects/EvaluateAnExpression/bin/Debug/net7.0/EvaluateAnExpression.runtimeconfig.json
+/Users/hoanganhvu/Desktop/CsharpProjects/EvaluateAnExpression/bin/Debug/net7.0/EvaluateAnExpression.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/EvaluateAnExpression/bin/Debug/net7.0/EvaluateAnExpression.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/EvaluateAnExpression/obj/Debug/net7.0/EvaluateAnExpression.csproj.AssemblyReference.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/EvaluateAnExpression/obj/Debug/net7.0/EvaluateAnExpression.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoanganhvu/Desktop/CsharpProjects/EvaluateAnExpression/obj/Debug/net7.0/EvaluateAnExpression.AssemblyInfoInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/EvaluateAnExpression/obj/Debug/net7.0/EvaluateAnExpression.AssemblyInfo.cs
+/Users/hoanganhvu/Desktop/CsharpProjects/EvaluateAnExpression/obj/Debug/net7.0/EvaluateAnExpression.csproj.CoreCompileInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/EvaluateAnExpression/obj/Debug/net7.0/EvaluateAnExpression.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/EvaluateAnExpression/obj/Debug/net7.0/refint/EvaluateAnExpression.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/EvaluateAnExpression/obj/Debug/net7.0/EvaluateAnExpression.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/EvaluateAnExpression/obj/Debug/net7.0/EvaluateAnExpression.genruntimeconfig.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/EvaluateAnExpression/obj/Debug/net7.0/ref/EvaluateAnExpression.dll
