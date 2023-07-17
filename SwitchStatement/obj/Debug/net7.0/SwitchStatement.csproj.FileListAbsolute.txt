@@ -1,0 +1,15 @@
+/Users/hoanganhvu/Desktop/CsharpProjects/SwitchStatement/bin/Debug/net7.0/SwitchStatement
+/Users/hoanganhvu/Desktop/CsharpProjects/SwitchStatement/bin/Debug/net7.0/SwitchStatement.deps.json
+/Users/hoanganhvu/Desktop/CsharpProjects/SwitchStatement/bin/Debug/net7.0/SwitchStatement.runtimeconfig.json
+/Users/hoanganhvu/Desktop/CsharpProjects/SwitchStatement/bin/Debug/net7.0/SwitchStatement.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/SwitchStatement/bin/Debug/net7.0/SwitchStatement.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/SwitchStatement/obj/Debug/net7.0/SwitchStatement.csproj.AssemblyReference.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/SwitchStatement/obj/Debug/net7.0/SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoanganhvu/Desktop/CsharpProjects/SwitchStatement/obj/Debug/net7.0/SwitchStatement.AssemblyInfoInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/SwitchStatement/obj/Debug/net7.0/SwitchStatement.AssemblyInfo.cs
+/Users/hoanganhvu/Desktop/CsharpProjects/SwitchStatement/obj/Debug/net7.0/SwitchStatement.csproj.CoreCompileInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/SwitchStatement/obj/Debug/net7.0/SwitchStatement.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/SwitchStatement/obj/Debug/net7.0/refint/SwitchStatement.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/SwitchStatement/obj/Debug/net7.0/SwitchStatement.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/SwitchStatement/obj/Debug/net7.0/SwitchStatement.genruntimeconfig.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/SwitchStatement/obj/Debug/net7.0/ref/SwitchStatement.dll
