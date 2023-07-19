@@ -1,0 +1,15 @@
+/Users/hoanganhvu/Desktop/CsharpProjects/xtMethods/bin/Debug/net7.0/xtMethods
+/Users/hoanganhvu/Desktop/CsharpProjects/xtMethods/bin/Debug/net7.0/xtMethods.deps.json
+/Users/hoanganhvu/Desktop/CsharpProjects/xtMethods/bin/Debug/net7.0/xtMethods.runtimeconfig.json
+/Users/hoanganhvu/Desktop/CsharpProjects/xtMethods/bin/Debug/net7.0/xtMethods.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/xtMethods/bin/Debug/net7.0/xtMethods.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/xtMethods/obj/Debug/net7.0/xtMethods.csproj.AssemblyReference.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xtMethods/obj/Debug/net7.0/xtMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoanganhvu/Desktop/CsharpProjects/xtMethods/obj/Debug/net7.0/xtMethods.AssemblyInfoInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xtMethods/obj/Debug/net7.0/xtMethods.AssemblyInfo.cs
+/Users/hoanganhvu/Desktop/CsharpProjects/xtMethods/obj/Debug/net7.0/xtMethods.csproj.CoreCompileInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xtMethods/obj/Debug/net7.0/xtMethods.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/xtMethods/obj/Debug/net7.0/refint/xtMethods.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/xtMethods/obj/Debug/net7.0/xtMethods.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/xtMethods/obj/Debug/net7.0/xtMethods.genruntimeconfig.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xtMethods/obj/Debug/net7.0/ref/xtMethods.dll
