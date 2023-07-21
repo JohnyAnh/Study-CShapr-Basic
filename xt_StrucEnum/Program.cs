@@ -1,45 +1,53 @@
-﻿using System.Dynamic;
-using System.Security.Cryptography.X509Certificates;
+﻿using System;
 
 class Program
 {
     //Struct
     public struct Product
     {
-        //du lieu
-        public string name;
-        public double price;
-        public string info
-        {
-            get { return $"Name: {name} price: {price}"; }
-        }
+        //Kiểu liệt kê enum
+        /*
+        0 - Kem
+        1 - Trung Binh
+        2 - Kha
+        3 - Gioi
+        */
+    }
 
-        //phuong thuc
-        public string getInfo()
-        {
-            return $"Ten san pham {name} gia tri {price}";
-        }
-
-        //Constructor
-        public Product(string _name, double _price)
-        {
-            name = _name;
-            this.price = _price;
-        }
+    enum HOCLUC
+    {
+        Kem = 10,
+        TrungBinh = 123,
+        Kha = 333,
+        Gioi = 444
     }
 
     public static void Main(string[] args)
     {
-        Product sanpham1;
-        sanpham1.name = "Iphone";
-        sanpham1.price = 1000;
+        //Enum
+        HOCLUC hocluc;
+        hocluc = HOCLUC.Kha;
 
-        Product sanPham2 = new Product("Nokia", 900);
-        sanPham2 = sanpham1;
-        sanPham2.name = "Ip X";
+        //Ép kiểu enum sang số
+        int so = (int)hocluc;
+        //Covert lại
+        hocluc = (HOCLUC)(333);
+        Console.WriteLine(so);
 
-        Console.WriteLine(sanpham1.getInfo());
-        Console.WriteLine(sanPham2.getInfo());
-        Console.WriteLine(sanPham2.info);
+        switch (hocluc)
+        {
+            case HOCLUC.Kem:
+                Console.WriteLine("Hoc luc kem");
+                break;
+            case HOCLUC.TrungBinh:
+                Console.WriteLine("Hoc luc trung binh");
+                break;
+            case HOCLUC.Kha:
+                Console.WriteLine("Hoc luc kha ");
+                break;
+            case HOCLUC.Gioi:
+                Console.WriteLine("Hoc luc Gioi");
+                break;
+        }
     }
 }
