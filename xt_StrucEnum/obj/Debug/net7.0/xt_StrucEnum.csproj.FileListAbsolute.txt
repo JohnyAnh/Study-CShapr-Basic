@@ -1,0 +1,15 @@
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_StrucEnum/bin/Debug/net7.0/xt_StrucEnum
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_StrucEnum/bin/Debug/net7.0/xt_StrucEnum.deps.json
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_StrucEnum/bin/Debug/net7.0/xt_StrucEnum.runtimeconfig.json
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_StrucEnum/bin/Debug/net7.0/xt_StrucEnum.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_StrucEnum/bin/Debug/net7.0/xt_StrucEnum.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_StrucEnum/obj/Debug/net7.0/xt_StrucEnum.csproj.AssemblyReference.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_StrucEnum/obj/Debug/net7.0/xt_StrucEnum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_StrucEnum/obj/Debug/net7.0/xt_StrucEnum.AssemblyInfoInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_StrucEnum/obj/Debug/net7.0/xt_StrucEnum.AssemblyInfo.cs
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_StrucEnum/obj/Debug/net7.0/xt_StrucEnum.csproj.CoreCompileInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_StrucEnum/obj/Debug/net7.0/xt_StrucEnum.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_StrucEnum/obj/Debug/net7.0/refint/xt_StrucEnum.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_StrucEnum/obj/Debug/net7.0/xt_StrucEnum.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_StrucEnum/obj/Debug/net7.0/xt_StrucEnum.genruntimeconfig.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_StrucEnum/obj/Debug/net7.0/ref/xt_StrucEnum.dll
