@@ -1,0 +1,15 @@
+/Users/hoanganhvu/Desktop/CsharpProjects/xtClass/obj/Debug/net7.0/xtClass.csproj.AssemblyReference.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xtClass/obj/Debug/net7.0/xtClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoanganhvu/Desktop/CsharpProjects/xtClass/obj/Debug/net7.0/xtClass.AssemblyInfoInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xtClass/obj/Debug/net7.0/xtClass.AssemblyInfo.cs
+/Users/hoanganhvu/Desktop/CsharpProjects/xtClass/obj/Debug/net7.0/xtClass.csproj.CoreCompileInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xtClass/bin/Debug/net7.0/xtClass
+/Users/hoanganhvu/Desktop/CsharpProjects/xtClass/bin/Debug/net7.0/xtClass.deps.json
+/Users/hoanganhvu/Desktop/CsharpProjects/xtClass/bin/Debug/net7.0/xtClass.runtimeconfig.json
+/Users/hoanganhvu/Desktop/CsharpProjects/xtClass/bin/Debug/net7.0/xtClass.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/xtClass/bin/Debug/net7.0/xtClass.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/xtClass/obj/Debug/net7.0/xtClass.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/xtClass/obj/Debug/net7.0/refint/xtClass.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/xtClass/obj/Debug/net7.0/xtClass.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/xtClass/obj/Debug/net7.0/xtClass.genruntimeconfig.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xtClass/obj/Debug/net7.0/ref/xtClass.dll
