@@ -1,0 +1,15 @@
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_NameSpace\obj\Debug\net7.0\xt_NameSpace.csproj.AssemblyReference.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_NameSpace\obj\Debug\net7.0\xt_NameSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_NameSpace\obj\Debug\net7.0\xt_NameSpace.AssemblyInfoInputs.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_NameSpace\obj\Debug\net7.0\xt_NameSpace.AssemblyInfo.cs
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_NameSpace\obj\Debug\net7.0\xt_NameSpace.csproj.CoreCompileInputs.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_NameSpace\bin\Debug\net7.0\xt_NameSpace.exe
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_NameSpace\bin\Debug\net7.0\xt_NameSpace.deps.json
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_NameSpace\bin\Debug\net7.0\xt_NameSpace.runtimeconfig.json
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_NameSpace\bin\Debug\net7.0\xt_NameSpace.dll
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_NameSpace\bin\Debug\net7.0\xt_NameSpace.pdb
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_NameSpace\obj\Debug\net7.0\xt_NameSpace.dll
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_NameSpace\obj\Debug\net7.0\refint\xt_NameSpace.dll
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_NameSpace\obj\Debug\net7.0\xt_NameSpace.pdb
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_NameSpace\obj\Debug\net7.0\xt_NameSpace.genruntimeconfig.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_NameSpace\obj\Debug\net7.0\ref\xt_NameSpace.dll
