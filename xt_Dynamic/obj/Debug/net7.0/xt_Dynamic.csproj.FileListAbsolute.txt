@@ -1,0 +1,15 @@
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Dynamic\bin\Debug\net7.0\xt_Dynamic.exe
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Dynamic\bin\Debug\net7.0\xt_Dynamic.deps.json
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Dynamic\bin\Debug\net7.0\xt_Dynamic.runtimeconfig.json
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Dynamic\bin\Debug\net7.0\xt_Dynamic.dll
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Dynamic\bin\Debug\net7.0\xt_Dynamic.pdb
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Dynamic\obj\Debug\net7.0\xt_Dynamic.csproj.AssemblyReference.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Dynamic\obj\Debug\net7.0\xt_Dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Dynamic\obj\Debug\net7.0\xt_Dynamic.AssemblyInfoInputs.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Dynamic\obj\Debug\net7.0\xt_Dynamic.AssemblyInfo.cs
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Dynamic\obj\Debug\net7.0\xt_Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Dynamic\obj\Debug\net7.0\xt_Dynamic.dll
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Dynamic\obj\Debug\net7.0\refint\xt_Dynamic.dll
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Dynamic\obj\Debug\net7.0\xt_Dynamic.pdb
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Dynamic\obj\Debug\net7.0\xt_Dynamic.genruntimeconfig.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Dynamic\obj\Debug\net7.0\ref\xt_Dynamic.dll
