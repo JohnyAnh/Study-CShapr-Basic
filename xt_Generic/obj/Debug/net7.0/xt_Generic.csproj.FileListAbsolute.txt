@@ -1,0 +1,15 @@
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Generic\bin\Debug\net7.0\xt_Generic.exe
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Generic\bin\Debug\net7.0\xt_Generic.deps.json
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Generic\bin\Debug\net7.0\xt_Generic.runtimeconfig.json
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Generic\bin\Debug\net7.0\xt_Generic.dll
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Generic\bin\Debug\net7.0\xt_Generic.pdb
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Generic\obj\Debug\net7.0\xt_Generic.csproj.AssemblyReference.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Generic\obj\Debug\net7.0\xt_Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Generic\obj\Debug\net7.0\xt_Generic.AssemblyInfoInputs.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Generic\obj\Debug\net7.0\xt_Generic.AssemblyInfo.cs
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Generic\obj\Debug\net7.0\xt_Generic.csproj.CoreCompileInputs.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Generic\obj\Debug\net7.0\xt_Generic.dll
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Generic\obj\Debug\net7.0\refint\xt_Generic.dll
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Generic\obj\Debug\net7.0\xt_Generic.pdb
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Generic\obj\Debug\net7.0\xt_Generic.genruntimeconfig.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Generic\obj\Debug\net7.0\ref\xt_Generic.dll
