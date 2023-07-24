@@ -14,6 +14,8 @@
             Để truy cập thuộc tính của toán tử vẫn dùng ký hiệu . và tên thuộc tính.
 
             Console.WriteLine(myProfile.name);
+
+            Luu y: Anonymous chi dung de doc
             */
 
             var myProfire = new
