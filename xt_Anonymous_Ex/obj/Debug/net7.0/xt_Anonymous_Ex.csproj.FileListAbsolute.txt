@@ -1,0 +1,15 @@
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Anonymous_Ex\obj\Debug\net7.0\xt_Anonymous_Ex.csproj.AssemblyReference.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Anonymous_Ex\obj\Debug\net7.0\xt_Anonymous_Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Anonymous_Ex\obj\Debug\net7.0\xt_Anonymous_Ex.AssemblyInfoInputs.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Anonymous_Ex\obj\Debug\net7.0\xt_Anonymous_Ex.AssemblyInfo.cs
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Anonymous_Ex\obj\Debug\net7.0\xt_Anonymous_Ex.csproj.CoreCompileInputs.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Anonymous_Ex\bin\Debug\net7.0\xt_Anonymous_Ex.exe
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Anonymous_Ex\bin\Debug\net7.0\xt_Anonymous_Ex.deps.json
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Anonymous_Ex\bin\Debug\net7.0\xt_Anonymous_Ex.runtimeconfig.json
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Anonymous_Ex\bin\Debug\net7.0\xt_Anonymous_Ex.dll
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Anonymous_Ex\bin\Debug\net7.0\xt_Anonymous_Ex.pdb
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Anonymous_Ex\obj\Debug\net7.0\xt_Anonymous_Ex.dll
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Anonymous_Ex\obj\Debug\net7.0\refint\xt_Anonymous_Ex.dll
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Anonymous_Ex\obj\Debug\net7.0\xt_Anonymous_Ex.pdb
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Anonymous_Ex\obj\Debug\net7.0\xt_Anonymous_Ex.genruntimeconfig.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Anonymous_Ex\obj\Debug\net7.0\ref\xt_Anonymous_Ex.dll
