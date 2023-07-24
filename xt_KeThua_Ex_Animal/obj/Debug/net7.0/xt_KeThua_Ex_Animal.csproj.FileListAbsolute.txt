@@ -1,0 +1,15 @@
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_KeThua_Ex_Animal\bin\Debug\net7.0\xt_KeThua_Ex_Animal.exe
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_KeThua_Ex_Animal\bin\Debug\net7.0\xt_KeThua_Ex_Animal.deps.json
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_KeThua_Ex_Animal\bin\Debug\net7.0\xt_KeThua_Ex_Animal.runtimeconfig.json
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_KeThua_Ex_Animal\bin\Debug\net7.0\xt_KeThua_Ex_Animal.dll
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_KeThua_Ex_Animal\bin\Debug\net7.0\xt_KeThua_Ex_Animal.pdb
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_KeThua_Ex_Animal\obj\Debug\net7.0\xt_KeThua_Ex_Animal.csproj.AssemblyReference.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_KeThua_Ex_Animal\obj\Debug\net7.0\xt_KeThua_Ex_Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_KeThua_Ex_Animal\obj\Debug\net7.0\xt_KeThua_Ex_Animal.AssemblyInfoInputs.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_KeThua_Ex_Animal\obj\Debug\net7.0\xt_KeThua_Ex_Animal.AssemblyInfo.cs
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_KeThua_Ex_Animal\obj\Debug\net7.0\xt_KeThua_Ex_Animal.csproj.CoreCompileInputs.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_KeThua_Ex_Animal\obj\Debug\net7.0\xt_KeThua_Ex_Animal.dll
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_KeThua_Ex_Animal\obj\Debug\net7.0\refint\xt_KeThua_Ex_Animal.dll
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_KeThua_Ex_Animal\obj\Debug\net7.0\xt_KeThua_Ex_Animal.pdb
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_KeThua_Ex_Animal\obj\Debug\net7.0\xt_KeThua_Ex_Animal.genruntimeconfig.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_KeThua_Ex_Animal\obj\Debug\net7.0\ref\xt_KeThua_Ex_Animal.dll
