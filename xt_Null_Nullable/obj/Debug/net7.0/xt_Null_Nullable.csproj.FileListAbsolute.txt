@@ -1,0 +1,15 @@
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Null_Nullable\bin\Debug\net7.0\xt_Null_Nullable.exe
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Null_Nullable\bin\Debug\net7.0\xt_Null_Nullable.deps.json
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Null_Nullable\bin\Debug\net7.0\xt_Null_Nullable.runtimeconfig.json
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Null_Nullable\bin\Debug\net7.0\xt_Null_Nullable.dll
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Null_Nullable\bin\Debug\net7.0\xt_Null_Nullable.pdb
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Null_Nullable\obj\Debug\net7.0\xt_Null_Nullable.csproj.AssemblyReference.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Null_Nullable\obj\Debug\net7.0\xt_Null_Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Null_Nullable\obj\Debug\net7.0\xt_Null_Nullable.AssemblyInfoInputs.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Null_Nullable\obj\Debug\net7.0\xt_Null_Nullable.AssemblyInfo.cs
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Null_Nullable\obj\Debug\net7.0\xt_Null_Nullable.csproj.CoreCompileInputs.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Null_Nullable\obj\Debug\net7.0\xt_Null_Nullable.dll
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Null_Nullable\obj\Debug\net7.0\refint\xt_Null_Nullable.dll
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Null_Nullable\obj\Debug\net7.0\xt_Null_Nullable.pdb
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Null_Nullable\obj\Debug\net7.0\xt_Null_Nullable.genruntimeconfig.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Null_Nullable\obj\Debug\net7.0\ref\xt_Null_Nullable.dll
