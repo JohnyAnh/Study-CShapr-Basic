@@ -1,0 +1,15 @@
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Partial_Nested\obj\Debug\net7.0\xt_Partial_Nested.csproj.AssemblyReference.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Partial_Nested\obj\Debug\net7.0\xt_Partial_Nested.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Partial_Nested\obj\Debug\net7.0\xt_Partial_Nested.AssemblyInfoInputs.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Partial_Nested\obj\Debug\net7.0\xt_Partial_Nested.AssemblyInfo.cs
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Partial_Nested\obj\Debug\net7.0\xt_Partial_Nested.csproj.CoreCompileInputs.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Partial_Nested\bin\Debug\net7.0\xt_Partial_Nested.exe
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Partial_Nested\bin\Debug\net7.0\xt_Partial_Nested.deps.json
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Partial_Nested\bin\Debug\net7.0\xt_Partial_Nested.runtimeconfig.json
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Partial_Nested\bin\Debug\net7.0\xt_Partial_Nested.dll
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Partial_Nested\bin\Debug\net7.0\xt_Partial_Nested.pdb
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Partial_Nested\obj\Debug\net7.0\xt_Partial_Nested.dll
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Partial_Nested\obj\Debug\net7.0\refint\xt_Partial_Nested.dll
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Partial_Nested\obj\Debug\net7.0\xt_Partial_Nested.pdb
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Partial_Nested\obj\Debug\net7.0\xt_Partial_Nested.genruntimeconfig.cache
+C:\Users\anhvh\Desktop\Study-CShapr-Basic\xt_Partial_Nested\obj\Debug\net7.0\ref\xt_Partial_Nested.dll
