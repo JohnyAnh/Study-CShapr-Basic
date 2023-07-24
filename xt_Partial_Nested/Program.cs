@@ -10,6 +10,9 @@ namespace Program
             sp1.price = 1000;
             sp1.description = "Ip 14 is so bad";
             sp1.getInFor();
+            Sanpham.Product.ManuFactory manuFactory1 = new Sanpham.Product.ManuFactory();
+            manuFactory1.name = "Nha may Apple";
+            manuFactory1.getInForFactory();
         }
     }
 }
