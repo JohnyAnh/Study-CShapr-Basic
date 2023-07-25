@@ -1,0 +1,15 @@
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_VirtualMethod_HamAo/bin/Debug/net7.0/xt_VirtualMethod_HamAo
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_VirtualMethod_HamAo/bin/Debug/net7.0/xt_VirtualMethod_HamAo.deps.json
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_VirtualMethod_HamAo/bin/Debug/net7.0/xt_VirtualMethod_HamAo.runtimeconfig.json
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_VirtualMethod_HamAo/bin/Debug/net7.0/xt_VirtualMethod_HamAo.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_VirtualMethod_HamAo/bin/Debug/net7.0/xt_VirtualMethod_HamAo.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_VirtualMethod_HamAo/obj/Debug/net7.0/xt_VirtualMethod_HamAo.csproj.AssemblyReference.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_VirtualMethod_HamAo/obj/Debug/net7.0/xt_VirtualMethod_HamAo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_VirtualMethod_HamAo/obj/Debug/net7.0/xt_VirtualMethod_HamAo.AssemblyInfoInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_VirtualMethod_HamAo/obj/Debug/net7.0/xt_VirtualMethod_HamAo.AssemblyInfo.cs
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_VirtualMethod_HamAo/obj/Debug/net7.0/xt_VirtualMethod_HamAo.csproj.CoreCompileInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_VirtualMethod_HamAo/obj/Debug/net7.0/xt_VirtualMethod_HamAo.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_VirtualMethod_HamAo/obj/Debug/net7.0/refint/xt_VirtualMethod_HamAo.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_VirtualMethod_HamAo/obj/Debug/net7.0/xt_VirtualMethod_HamAo.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_VirtualMethod_HamAo/obj/Debug/net7.0/xt_VirtualMethod_HamAo.genruntimeconfig.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_VirtualMethod_HamAo/obj/Debug/net7.0/ref/xt_VirtualMethod_HamAo.dll
