@@ -22,10 +22,20 @@ namespace Delegate
 
         public static void Main(string[] args)
         {
-            Showlog log = null;
+            // Nhiều phương thức(chuỗi phương thức)
+            Showlog log = null; //+=
+
+            //Dùng += để gọi các phương thức với delegate gọi bao lần hiện bấy nhiêu lần
+            log += Info;
+            log += Info;
+            log += Info;
+
+            log += Warning;
+
+            log?.Invoke("Xin chao");
 
             /*
-            */
+            Showlog log = null;
             log = Info;
             //Kiểm tra biến log khác null
             if (log != null)
@@ -35,6 +45,9 @@ namespace Delegate
 
             log = Warning;
             log("Hoc ve delegate");
+            
+            */
+
             /*
             //Cách 1 thi hành các biến đang lưu trong delagate
             log = Info;
