@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "xt_NC_22_MethodDelegate/1.0.0": {
+        "runtime": {
+          "xt_NC_22_MethodDelegate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "xt_NC_22_MethodDelegate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

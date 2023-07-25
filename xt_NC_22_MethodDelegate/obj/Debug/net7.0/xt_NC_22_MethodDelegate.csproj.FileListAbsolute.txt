@@ -1,0 +1,15 @@
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_NC_22_MethodDelegate/bin/Debug/net7.0/xt_NC_22_MethodDelegate
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_NC_22_MethodDelegate/bin/Debug/net7.0/xt_NC_22_MethodDelegate.deps.json
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_NC_22_MethodDelegate/bin/Debug/net7.0/xt_NC_22_MethodDelegate.runtimeconfig.json
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_NC_22_MethodDelegate/bin/Debug/net7.0/xt_NC_22_MethodDelegate.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_NC_22_MethodDelegate/bin/Debug/net7.0/xt_NC_22_MethodDelegate.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_NC_22_MethodDelegate/obj/Debug/net7.0/xt_NC_22_MethodDelegate.csproj.AssemblyReference.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_NC_22_MethodDelegate/obj/Debug/net7.0/xt_NC_22_MethodDelegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_NC_22_MethodDelegate/obj/Debug/net7.0/xt_NC_22_MethodDelegate.AssemblyInfoInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_NC_22_MethodDelegate/obj/Debug/net7.0/xt_NC_22_MethodDelegate.AssemblyInfo.cs
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_NC_22_MethodDelegate/obj/Debug/net7.0/xt_NC_22_MethodDelegate.csproj.CoreCompileInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_NC_22_MethodDelegate/obj/Debug/net7.0/xt_NC_22_MethodDelegate.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_NC_22_MethodDelegate/obj/Debug/net7.0/refint/xt_NC_22_MethodDelegate.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_NC_22_MethodDelegate/obj/Debug/net7.0/xt_NC_22_MethodDelegate.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_NC_22_MethodDelegate/obj/Debug/net7.0/xt_NC_22_MethodDelegate.genruntimeconfig.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_NC_22_MethodDelegate/obj/Debug/net7.0/ref/xt_NC_22_MethodDelegate.dll
