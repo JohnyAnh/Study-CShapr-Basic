@@ -1,0 +1,15 @@
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Abstract_TruuTuong/bin/Debug/net7.0/xt_Abstract_TruuTuong
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Abstract_TruuTuong/bin/Debug/net7.0/xt_Abstract_TruuTuong.deps.json
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Abstract_TruuTuong/bin/Debug/net7.0/xt_Abstract_TruuTuong.runtimeconfig.json
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Abstract_TruuTuong/bin/Debug/net7.0/xt_Abstract_TruuTuong.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Abstract_TruuTuong/bin/Debug/net7.0/xt_Abstract_TruuTuong.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Abstract_TruuTuong/obj/Debug/net7.0/xt_Abstract_TruuTuong.csproj.AssemblyReference.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Abstract_TruuTuong/obj/Debug/net7.0/xt_Abstract_TruuTuong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Abstract_TruuTuong/obj/Debug/net7.0/xt_Abstract_TruuTuong.AssemblyInfoInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Abstract_TruuTuong/obj/Debug/net7.0/xt_Abstract_TruuTuong.AssemblyInfo.cs
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Abstract_TruuTuong/obj/Debug/net7.0/xt_Abstract_TruuTuong.csproj.CoreCompileInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Abstract_TruuTuong/obj/Debug/net7.0/xt_Abstract_TruuTuong.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Abstract_TruuTuong/obj/Debug/net7.0/refint/xt_Abstract_TruuTuong.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Abstract_TruuTuong/obj/Debug/net7.0/xt_Abstract_TruuTuong.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Abstract_TruuTuong/obj/Debug/net7.0/xt_Abstract_TruuTuong.genruntimeconfig.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Abstract_TruuTuong/obj/Debug/net7.0/ref/xt_Abstract_TruuTuong.dll
