@@ -1,0 +1,15 @@
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Lambda/bin/Debug/net7.0/xt_Lambda
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Lambda/bin/Debug/net7.0/xt_Lambda.deps.json
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Lambda/bin/Debug/net7.0/xt_Lambda.runtimeconfig.json
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Lambda/bin/Debug/net7.0/xt_Lambda.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Lambda/bin/Debug/net7.0/xt_Lambda.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Lambda/obj/Debug/net7.0/xt_Lambda.csproj.AssemblyReference.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Lambda/obj/Debug/net7.0/xt_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Lambda/obj/Debug/net7.0/xt_Lambda.AssemblyInfoInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Lambda/obj/Debug/net7.0/xt_Lambda.AssemblyInfo.cs
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Lambda/obj/Debug/net7.0/xt_Lambda.csproj.CoreCompileInputs.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Lambda/obj/Debug/net7.0/xt_Lambda.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Lambda/obj/Debug/net7.0/refint/xt_Lambda.dll
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Lambda/obj/Debug/net7.0/xt_Lambda.pdb
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Lambda/obj/Debug/net7.0/xt_Lambda.genruntimeconfig.cache
+/Users/hoanganhvu/Desktop/CsharpProjects/xt_Lambda/obj/Debug/net7.0/ref/xt_Lambda.dll
